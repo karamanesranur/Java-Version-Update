@@ -4,11 +4,15 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/m2-enum/pom.xml" />
+        <option value="$PROJECT_DIR$/m3-lambda/pom.xml" />
+        <option value="$PROJECT_DIR$/m1-generics/pom.xml" />
+        <option value="$PROJECT_DIR$/m4-double_colon_operators/pom.xml" />
+        <option value="$PROJECT_DIR$/m5-comparator_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/m6-stream/pom.xml" />
+        <option value="$PROJECT_DIR$/m7-optional_interface/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/out" />
-  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK" />
 </project>
